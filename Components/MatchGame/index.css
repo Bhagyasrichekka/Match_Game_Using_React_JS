@@ -1,0 +1,33 @@
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto';
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+}
+
+.game-img {
+  margin: 50px;
+  height: 65vh;
+  width: 60vw;
+  border-radius: 5px;
+}
+.tabs {
+  display: flex;
+}
+
+button {
+  cursor: pointer;
+}
+.invisible-btn {
+  background-color: transparent;
+  border-style: none;
+}
+.images-list {
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

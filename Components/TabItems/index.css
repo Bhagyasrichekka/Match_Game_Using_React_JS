@@ -1,0 +1,13 @@
+.tabItem {
+  color: white;
+  font-weight: 500;
+  list-style-type: none;
+  font-size: 25px;
+  margin-right: 26px;
+}
+
+.active-tab {
+  color: #fec653;
+  border-bottom: 3px solid #fec653;
+  padding-bottom: 5px;
+}
